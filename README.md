@@ -1,8 +1,17 @@
-# React + Vite
+# Voice to Text Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![alt text](src/assets/voice.jpg "description")
 
-Currently, two official plugins are available:
+This project is a voice-to-text converter application built with React and Ant Design. The application allows users to start and stop voice recording and converts the recorded voice into text.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+Voice recording: Start and stop recording with buttons.
+
+Text conversion: Converts recorded voice to text in real-time with the possibility of correction via keyboard.
+
+User-friendly interface using Ant Design components.
+
+## Technology stack
+
+React.js, Ant Design
